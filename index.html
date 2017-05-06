@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+<link rel="stylesheet" href="css/style.css" />	
+</head>
+<body ng-app="app" ng-controller="mytab">
+<tab-header dishes="'食堂点菜'"></tab-header>	
+<section class="section">
+	
+<tab-content data="data"></tab-content>	
+
+</section>
+<footer class="footer">
+	购物车:{{sum}}
+</footer>
+<script src="js/angular.js"></script>
+<script src="js/directive.js"></script>
+</body>
+</html>

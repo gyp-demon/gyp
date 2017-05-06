@@ -1,0 +1,34 @@
+[
+    {
+	    "cuisine":"啤酒",
+	    "list":[
+	        {"name":"青岛","price":38},
+	        {"name":"燕京","price":58},
+	        {"name":"哈啤","price":78}
+	    ]
+    },
+    {
+    	"cuisine":"饮料",
+    	"list":[
+    		{"name":"可乐","price":18},
+			{"name":"雪碧","price":88},
+			{"name":"红茶","price":88},
+			{"name":"矿泉水","price":88}
+    	]
+    },
+    {
+    	"cuisine":"点心",
+    	"list":[
+	    	{"name":"蛋糕","price":38},
+	        {"name":"豆沙饼","price":58}
+   		]
+   	},
+    {	
+    	"cuisine":"烧烤",
+    	"list":[
+        	{"name":"脆骨","price":38},
+        	{"name":"羊肉串","price":58},
+        	{"name":"腰子","price":58}
+    	]
+    }
+]

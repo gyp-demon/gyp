@@ -1,0 +1,31 @@
+[
+    {
+	    "cuisine":"热销菜品",
+	    "list":[
+	        {"name":"红烧肉1","price":38},
+	        {"name":"宫保鸡丁1","price":58},
+	        {"name":"水煮鱼1","price":78}
+	    ]
+    },
+    {
+    	"cuisine":"热菜",
+    	"list":[
+    		{"name":"土豆丝","price":18},
+			{"name":"烤鱼","price":88}
+    	]
+    },
+    {
+    	"cuisine":"凉菜",
+    	"list":[
+	    	{"name":"红烧肉2","price":38},
+	        {"name":"宫保鸡丁2","price":58}
+   		]
+   	},
+    {	
+    	"cuisine":"套餐",
+    	"list":[
+        	{"name":"红烧肉3","price":38},
+        	{"name":"宫保鸡丁3","price":58}
+    	]
+    }
+]
